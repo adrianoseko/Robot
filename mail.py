@@ -11,7 +11,7 @@ def send(msg, destinatario):
     host = 'smtp.gmail.com'
     port = 587
     user = 'adriano.jorge.moraes@gmail.com'
-    password = 'Moraes2021'
+    password = ''
 
     # Criando objeto
     print('Criando objeto servidor...')
