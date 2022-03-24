@@ -10,7 +10,7 @@ def send(msg, destinatario):
     # Configuração
     host = 'smtp.gmail.com'
     port = 587
-    user = 'adriano.jorge.moraes@gmail.com'
+    user = ''
     password = ''
 
     # Criando objeto
